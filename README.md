@@ -1,8 +1,6 @@
-# Hi there 👋
+# Hi👋, I'm Nur Pelin
 
-Hi 👋, I'm Nur Pelin
-
-A Student studying back-end developing with Cloud
+A student studying back-end developing with Cloud
 - 🌐 Feel free to network with me at[Linkedin](https://www.linkedin.com/in/nur-pelin-demirel-25885128b/)<br/>
 
 

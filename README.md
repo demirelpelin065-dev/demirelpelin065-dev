@@ -11,7 +11,7 @@ A student studying back-end developing with Cloud
 -  **Git/Github**
 
   💬 Ask me about
--  **C#, Object-Oriented Programming (OOP), Asynchronous Programming (async/await), LINQ, Design Patterns (Repository Pattern), Debugging &Troubleshooting, .NET / .NET Core, REST APIs, Web Applications, CRUD Applications, System Architecture, Scalability & Code Structure, Testable Code, SQL, Database Connectivity, Relational Databases, JOIN, CRUD Operations, Primary & Foreign Keys, Basic Cloud Services, Backend Deployment, Cloud-Based Solutions (Cloud-Native), Agile Methods (Scrum, Sprints), Version Control (Git), Teamwork & Independent Work, Project Planning & Iteration, Code Quality, Analytical & Problem-Solving Skills, Scalable Architecture, Responsibility & Attention to Detail.
+-  **C#, Object-Oriented Programming (OOP), Asynchronous Programming (async/await), LINQ, Design Patterns (Repository Pattern), Debugging &Troubleshooting, .NET / .NET Core, REST APIs, Web Applications, CRUD Applications, System Architecture, Scalability & Code Structure, Testable Code, SQL, Database Connectivity, Relational Databases, JOIN, CRUD Operations, Primary & Foreign Keys, Basic Cloud Services, Backend Deployment, Cloud-Based Solutions (Cloud-Native), Agile Methods (Scrum, Sprints), Version Control (Git), Teamwork & Independent Work, Project Planning & Iteration, Code Quality, Analytical & Problem-Solving Skills, Scalable Architecture, Responsibility & Attention to Detail.**
 
   ⚡ Fun fact
 -  **I believe that I am capable of doing everything I set my mind to**
